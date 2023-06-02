@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "67lMMnAJguMk210u5d4WyYEaA+GakzbPixEd5IF8DpbB9B+UrJnbq6K63le+GKWu6YfF04Z2RbEoArWq9euRGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Infer\\Documents\\GitHub\\octopus-geek\\Simpl\\Simpl\\Simpl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Infer\\.nuget\\packages\\anglesharp\\1.0.1\\anglesharp.1.0.1.nupkg.sha512",
+    "C:\\Users\\Infer\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Infer\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Infer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Infer\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
